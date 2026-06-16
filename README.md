@@ -65,4 +65,4 @@ AI-Resume-Screener/
 - Task: AI-ADV-1
 - Domain: AI / ML / NLP
 - Intern: [Abdul Musawir]
-- LinkedIn: []
+- LinkedIn: [https://www.linkedin.com/in/abdul-musawir-a9713a20b/]
