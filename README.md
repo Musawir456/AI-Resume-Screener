@@ -64,5 +64,5 @@ AI-Resume-Screener/
 ## 📝 Submission
 - Task: AI-ADV-1
 - Domain: AI / ML / NLP
-- Intern: [Your Name]
-- LinkedIn: [Your Post Link]
+- Intern: [Abdul Musawir]
+- LinkedIn: []
